@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+This is a organization that makes original hand-made keyboard.
+for details, access https://studio-purring.github.io
 <!--
 
 **Here are some ideas to get you started:**
